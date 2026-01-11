@@ -11,8 +11,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Project layout
 
-!!! Info
-    This section is not up to date with current repo. It is boilerplate as an example only.
+> This section is not up to date with current repo. It is boilerplate as an example only.
 
     mkdocs.yml    # The configuration file.
     docs/
