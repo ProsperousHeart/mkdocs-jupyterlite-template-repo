@@ -13,6 +13,24 @@ If you're looking to learn more about Kassandra, you can check out her blog [her
 
 # Resources
 
+If you haven't yet then join us in the PyTexas Discord [here](https://discord.gg/pytexas){target="_blank" rel="noopener"}. 💛
+
+## The Contest
+
+A special [contest](https://canva.link/pytexas2026-talkgame){target="_blank" rel="noopener"} was done for the conference. Since the contest submission time has passed, we can now share the deck below.
+
+<div style="position: relative; width: 90%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAHGs-0zVD0/jo0iHGkyUFfJ__fKWdwMbA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+There were ??? submissions. The winners are ... and ... from Discord!
+
+All consenting participants received 1 additional email follow up with information to support what they shared in their submission.
+
 ## Replay
 
 When available, the replay will be shared here.
@@ -25,21 +43,15 @@ There will be additional production time for the final recordings to become avai
 
 ## The Deck
 
-A special [contest](https://canva.link/pytexas2026-talkgame){target="_blank" rel="noopener"} is being done for the conference. As it requires that attendees pay attention to the talk in order to win, the deck will not be shared until the contest submission time period is over.
+I was a first time speaker for this event, so I was really excited to share my experience with people in my own backyard.
 
 <div style="position: relative; width: 90%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAHGs-0zVD0/jo0iHGkyUFfJ__fKWdwMbA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+    src="https://www.canva.com/design/DAG9_LcmdAI/1fpBnBbFjvr12Tz-BVb2Eg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-
-You can expect the deck to become available within 2-3 business days after the event. (Possibly sooner. I am a first time speaker as well as an event organizer this year & will be driving 3+ hours or so to/from the event.)
-
-Thank you for your patience & I hope to see you in the Discord channel!
-
-If you haven't yet (& it's the only way you can win the contest) then join us in the PyTexas Discord [here](https://discord.gg/pytexas){target="_blank" rel="noopener"}. 💛
 
 # Additional Conference Sessions
 
