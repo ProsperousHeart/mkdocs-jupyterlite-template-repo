@@ -1,6 +1,7 @@
 site_name: My Docs
 site_url: https://prosperousheart.github.io/mkdocs-jupyterlite-template-repo/
 repo_url: https://github.com/prosperousheart/mkdocs-jupyterlite-template-repo/
+edit_uri: blob/main/docs/
 
 nav:
   # - Home: index.md
