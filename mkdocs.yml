@@ -3,7 +3,8 @@ site_url: https://prosperousheart.github.io/mkdocs-jupyterlite-template-repo/
 repo_url: https://github.com/prosperousheart/mkdocs-jupyterlite-template-repo/
 
 nav:
-  - Home: index.md
+  # - Home: index.md
+  - PyTexas 2026: index.md
   - Notebook In Root: notebook.ipynb
   - Directory:
       - Notebook In Directory: tmp-ex-dir/notebook.ipynb
@@ -16,3 +17,6 @@ plugins:
       enabled: true
       notebook_patterns:
         - '*.ipynb'
+
+markdown_extensions:
+  - attr_list
