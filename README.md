@@ -1,4 +1,4 @@
-As of Dec 2025, this README is a WIP. The most important piece of this repo is the training deck. (See the link int he top right under the description.)
+As of Dec 2025, this README is a WIP. The most important piece of this repo is the training deck. (See the link in the top right under the description.)
 
 # About
 
