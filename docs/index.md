@@ -21,7 +21,7 @@ The conference is April 17-19, 2026. (Even if you can't attend in person, virtua
 
 There will be additional production time for the final recordings to become available. As soon as I know, will ensure to update this page.
 
-<img src="./IMGs/KK-promo-all-speakers.gif" width="40%" height="40%" alt="Talk Promo GIF with all speakers" target="_blank">
+<img src="./IMGs/KK-promo-all-speakers.gif" width="60%" height="60%" alt="Talk Promo GIF with all speakers" target="_blank">
 
 ## The Deck
 
