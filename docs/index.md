@@ -26,6 +26,8 @@ As of 20260423, she has the following options available:
 
 - monthly mentorship program
 
+- 1:1 coaching
+
 - ad hoc projects (e.g.: code review, softare design, change management project planning, etc)
 
 # Resources
