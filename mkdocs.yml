@@ -1,11 +1,11 @@
-site_name: My Docs
+site_name: PyTexas 2026 Talk & Repo
 site_url: https://prosperousheart.github.io/mkdocs-jupyterlite-template-repo/
 repo_url: https://github.com/prosperousheart/mkdocs-jupyterlite-template-repo/
 edit_uri: blob/main/docs/
 
 nav:
   # - Home: index.md
-  - PyTexas 2026: index.md
+  - The Talk: index.md
   - Notebook In Root: notebook.ipynb
   - Directory:
       - Notebook In Directory: tmp-ex-dir/notebook.ipynb
