@@ -2,7 +2,9 @@
 
 This page is to provide you with the recording & resource(s) provided as part of the [PyTexas 2026 conference](https://www.pytexas.org/2026/){target="_blank" rel="noopener"}.
 
-If you're looking to learn more about Kassandra, you can check out her blog [here](https://prosperousheart.com/){target="_blank" rel="noopener"} or her digital résumé [here](http://resume.prosperousheart.com/){target="_blank" rel="noopener"}. You can also connect with her on any social media platform under the handle **_ProsperousHeart_**:
+If you're looking to learn more about Kassandra, you can check out her blog [here](https://prosperousheart.com/){target="_blank" rel="noopener"} or her digital résumé [here](http://resume.prosperousheart.com/){target="_blank" rel="noopener"}.
+
+You can also connect with her on any social media platform under the handle **_ProsperousHeart_**:
 
 - [BlueSky](https://bsky.app/profile/prosperousheart.bsky.social){target="_blank" rel="noopener"}
 - [Fosstodon / Mastodon](https://fosstodon.org/@ProsperousHeart){target="_blank" rel="noopener"}
@@ -10,6 +12,18 @@ If you're looking to learn more about Kassandra, you can check out her blog [her
 - LinkedIn ([Personal](https://www.linkedin.com/in/kkeeton/){target="_blank" rel="noopener"} and [Page](http://prosperousheart.com/linkedin){target="_blank" rel="noopener"})
 - [Twitter / X](http://prosperousheart.com/twitter){target="_blank" rel="noopener"}
 - [YouTube](http://prosperousheart.com/youtube){target="_blank" rel="noopener"}
+
+## Working With KK 💛
+
+If you would like to learn from or hire Kassandra, utilize one of the options in the contact section of her [digital résumé](http://resume.prosperousheart.com/){target="_blank" rel="noopener"}.
+
+As of 20260423, she has the following options available:
+
+- hands-on [python basics bootcamp](https://resume.prosperousheart.com/Basics-Boot-Camp/) (3 weeks of lessons & implementation work + community support)
+
+- monthly mentorship program
+
+- ad hoc projects (e.g.: code review, softare design, change management project planning, etc)
 
 # Resources
 
