@@ -74,7 +74,7 @@ So to keep it simple, assuming everyone is in the Discord server let's just keep
 
 Of those 253, only 8 participated in the contest - or ~3-4% of the in-person attendees.
 
-(And of those 8, 3 identified as students which makes ~38% of the submissions. 🎉)
+(And of those 8, 4 identified as students which makes 50% of the submissions... Or 1.5-2% of the in person audience! 🎉)
 
 Pretty good odds of winning, am I right? 😉
 
