@@ -80,13 +80,22 @@ Pretty good odds of winning, am I right? 😉
 
 ## Replay
 
-When available, the replay will be shared here.
-
 <img src="./IMGs/KK-promo-all-speakers.gif" width="45%" height="45%" alt="Talk Promo GIF with all speakers" target="_blank">
 
 The [PyTexas 2026](https://pytexas.org/2026){target="_blank" rel="noopener"} conference was April 17-19, 2026.
 
-There will be additional production time for the final recordings to become available. As soon as I know, will ensure to update this page.
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube-nocookie.com/embed/XNS3IwQZD80" 
+    title="Video title" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen 
+    loading="lazy"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+<br><br>
 
 ## The Deck
 
