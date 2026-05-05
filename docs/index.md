@@ -66,15 +66,15 @@ I also received lovely feedback on how to improve this contest, so thank you to 
 
 A little data for my fellow number nerds ...
 
-PyTexas 2026 had 253 people check in (a 92% in-person attend rate).
+PyTexas 2026 had 229 people check in (an 83% in-person attend rate).
 
 I currently don't know how many virtual attendees we had, and no one made a submission with that info.
 
-So to keep it simple, assuming everyone is in the Discord server let's just keep the total number of eligible people to 253.
+So to keep it simple, assuming everyone is in the Discord server let's just keep the total number of eligible people to 229.
 
-Of those 253, only 8 participated in the contest - or ~3-4% of the in-person attendees.
+Of those 229, only 8 participated in the contest - or ~3-4% of the in-person attendees.
 
-(And of those 8, 4 identified as students which makes 50% of the submissions... Or 1.5-2% of the in person audience! 🎉)
+(And of those 8, 4 identified as students which makes 50% of the submissions... Or ~1.7% of the in person audience! 🎉)
 
 Pretty good odds of winning, am I right? 😉
 
