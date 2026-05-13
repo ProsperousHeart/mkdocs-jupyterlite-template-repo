@@ -28,7 +28,7 @@ As of 20260423, she has the following options available:
 
 - 1:1 coaching
 
-- ad hoc projects (e.g.: code review, softare design, change management project planning, etc)
+- ad hoc projects (e.g.: code review, software design, change management project planning, etc)
 
 # Resources
 
@@ -40,6 +40,8 @@ Be sure to check out [Project Code Guard](https://project-codeguard.org/getting-
 
 A special [contest](https://canva.link/pytexas2026-talkgame){target="_blank" rel="noopener"} was done for the conference.
 
+Since the contest submission time has passed, I can now share the [deck](#the-deck) below.
+
 <div style="position: relative; width: 70%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -47,8 +49,6 @@ A special [contest](https://canva.link/pytexas2026-talkgame){target="_blank" rel
     src="https://www.canva.com/design/DAHGs-0zVD0/jo0iHGkyUFfJ__fKWdwMbA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-
-Since the contest submission time has passed, I can now share the [deck](#the-deck) below.
 
 ### The Outcome
 
@@ -82,7 +82,7 @@ Pretty good odds of winning, am I right? 😉
 
 <img src="./IMGs/KK-promo-all-speakers.gif" width="45%" height="45%" alt="Talk Promo GIF with all speakers" target="_blank">
 
-The [PyTexas 2026](https://pytexas.org/2026){target="_blank" rel="noopener"} conference was April 17-19, 2026.
+The [PyTexas 2026](https://pytexas.org/2026){target="_blank" rel="noopener"} conference was April 17-19, 2026. If you would prefer to watch this on the same page as the other talks then please see [this page](https://www.pytexas.org/2026/schedule/talks/#python-in-the-browser-building-interactive-documentation-with-mkdocs-jupyterlite){target="_blank" rel="noopener"} instead.
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
   <iframe 
@@ -101,7 +101,7 @@ The [PyTexas 2026](https://pytexas.org/2026){target="_blank" rel="noopener"} con
 
 I was a first time speaker for the 20th anniversary, so I was really excited to share my experience with people in my own backyard. 💚
 
-Below you will see the exact deck used during the talk. 👇
+Below you will see the exact deck used during the talk with clickable (or tappable) links. 👇
 
 <div style="position: relative; width: 85%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
